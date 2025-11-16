@@ -1,1 +1,1 @@
-# Resume-Screening-Application-using-Python-NLP
+# Resume-Analyzer-Application-using-NLP-Python
